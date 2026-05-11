@@ -1,0 +1,12 @@
+{
+  "name": "MangaFire Repo",
+  "description": "MangaFire Extension",
+  "extensions": [
+    {
+      "name": "MangaFire",
+      "version": "1.0.0",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Fire_icon.svg",
+      "url": "https://raw.githubusercontent.com/mrapps092-star/mangafire-repo/main/MangaFire.pbx"
+    }
+  ]
+}
